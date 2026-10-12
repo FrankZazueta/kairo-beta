@@ -1,6 +1,6 @@
 # Kairo (beta)
 
-**DJ software with an AI co-pilot.** Free public beta for Windows.
+**Free DJ software for Windows.** Public beta.
 
 ### [⬇ Download the latest version](https://github.com/FrankZazueta/kairo-beta/releases/latest)
 
