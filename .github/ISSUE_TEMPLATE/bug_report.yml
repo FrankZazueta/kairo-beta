@@ -1,0 +1,30 @@
+name: Something's broken
+description: Kairo crashed, sounded wrong, or didn't do what it should
+labels: [bug]
+body:
+  - type: textarea
+    id: what
+    attributes:
+      label: What happened?
+      description: What did you do, what did you expect, and what happened instead? Screenshots help a lot.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: How can I make it happen too?
+      placeholder: |
+        1. Load a song on deck A
+        2. Press ...
+  - type: input
+    id: version
+    attributes:
+      label: Kairo version
+      description: In Kairo, click About (top right).
+      placeholder: 0.1.0
+  - type: input
+    id: pc
+    attributes:
+      label: Your PC
+      description: Windows version, graphics card, sound card / audio interface
+      placeholder: Windows 11, RTX 3060, Focusrite Scarlett 2i2
