@@ -16,6 +16,7 @@ Kairo is DJ software I'm building, and I'd love DJs to try it and tell me what w
 - **"Play next" suggestions** that learn from your Serato history, if you have one
 - **Sampler**, and **beat-synced visuals** for a second screen or projector
 - **Headphone cue** on a second sound card
+- **Record your mix** to a WAV file
 
 ## Requirements
 
